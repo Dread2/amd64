@@ -17,4 +17,4 @@
   - [UPenn Computer Architecture: ISA Architecture (CIS501 Lecture 03)](https://acg.cis.upenn.edu/milom/cis501-Fall08/lectures/03_isa.pdf)
 
 -**Caching**
-  -[Princeton: Designing a CPU (COS109 Lecture 04)](https://www.cs.princeton.edu/courses/archive/fall14/cos109/](https://www.cs.princeton.edu/courses/archive/fall14/cos109/04cpu.pdf)
+  - [Princeton: Designing a CPU (COS109 Lecture 04)](https://www.cs.princeton.edu/courses/archive/fall14/cos109/](https://www.cs.princeton.edu/courses/archive/fall14/cos109/04cpu.pdf)
