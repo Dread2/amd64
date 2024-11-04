@@ -13,3 +13,4 @@
 
 - **Instruction Set Architecture (ISA) - MIPS, PowerPC, ARM, x86**
   - [UPenn Computer Architecture: ISA Architecture (CIS501 Lecture 02)](https://acg.cis.upenn.edu/milom/cis501-Fall05/lectures/02_isa.pdf)
+  - [UPenn Computer Architecture: ISA Architecture (CIS501 Lecture 03)](https://acg.cis.upenn.edu/milom/cis501-Fall08/lectures/03_isa.pdf)
