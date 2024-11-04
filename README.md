@@ -5,6 +5,7 @@
 
 - **Advanced Branch Prediction**
   - [CMU Computer Architecture: Advanced Branch Prediction (ECE740 Lecture 05)](https://course.ece.cmu.edu/~ece740/f15/lib/exe/fetch.php?media=18-740-fall15-lecture05-branch-prediction-afterlecture.pdf)
+  - [UW Madison: Advanced Branch Predicton (ECE752 Lecture 09)](https://ece752.ece.wisc.edu/lect09-adv-branch-prediction.pdf)
 
 - **Von Neumann, ALU Design, and Pipelining**
   - [UIUC Computer Architecture: Von Neumann Model, ALU Design, and Pipelining (ECE120 Lecture)](https://lumetta.web.engr.illinois.edu/120-S19/slide-copies/095-von-neumann-model.pdf)
